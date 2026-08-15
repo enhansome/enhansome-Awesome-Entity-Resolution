@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T04:23:53Z",
+            "last_commit": "2026-08-14T12:12:07Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1234
@@ -275,7 +275,7 @@
             "last_commit": "2025-09-16T22:04:42Z",
             "owner": "timesler",
             "repo": "facenet-pytorch",
-            "stars": 5160
+            "stars": 5161
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2024-10-30T21:00:49Z",
             "owner": "rspeer",
             "repo": "python-ftfy",
-            "stars": 4054
+            "stars": 4056
           }
         },
         {
@@ -334,7 +334,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T03:44:22Z",
+            "last_commit": "2026-08-14T05:36:50Z",
             "owner": "derek73",
             "repo": "python-nameparser",
             "stars": 714
@@ -396,10 +396,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T04:21:06Z",
+            "last_commit": "2026-08-15T03:35:43Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77851
+            "stars": 77821
           }
         },
         {
@@ -452,7 +452,7 @@
           "repo_info": {
             "archived": false,
             "language": "R",
-            "last_commit": "2026-08-12T10:10:45Z",
+            "last_commit": "2026-08-14T10:59:52Z",
             "owner": "ncn-foreigners",
             "repo": "blocking",
             "stars": 14
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T04:56:46.681Z",
+    "last_updated": "2026-08-15T03:47:15.938Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
     "enhanced_repository": "enhansome/enhansome-Awesome-Entity-Resolution",

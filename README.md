@@ -20,7 +20,7 @@
 
 * [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,500 | 🐛 90 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
 * [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,338 | 🐛 223 | 🌐 Python | 📅 2026-08-13 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
-* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,234 | 🐛 102 | 🌐 Java | 📅 2026-08-14 (Python, Java) - Scalable, active learning model for entity resolution.
+* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,234 | 🐛 103 | 🌐 Java | 📅 2026-08-14 (Python, Java) - Scalable, active learning model for entity resolution.
 * [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,059 | 🐛 64 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
 * [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 622 | 🐛 75 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
 * [FastLink](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 36 | 🌐 R | 📅 2026-02-28 (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
@@ -46,13 +46,13 @@
 
 ### Embeddings (for pairwise comparison)
 
-* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,160 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
+* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,161 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
 * [Entity Embed](https://github.com/vintasoftware/entity-embed) ⭐ 161 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-18 (Python, PyTorch) - Pytorch text embedding model for blocking.
 
 ### Data Cleaning and Parsing
 
 * [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,869 | 🐛 299 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
-* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,054 | 🐛 25 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
+* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,056 | 🐛 25 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
 * [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 714 | 🐛 26 | 🌐 Python | 📅 2026-08-14 (Python) - Separate names into individual components.
 * [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 623 | 🐛 67 | 🌐 Python | 📅 2025-05-15 - Western name parser.
 * [cleanco](https://github.com/psolin/cleanco) ⭐ 360 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
@@ -62,15 +62,15 @@
 ### Data Quality Control
 
 * [GreatExpectations](https://docs.greatexpectations.io/docs/) (Python) - Data quality checks.
-* [validate](https://github.com/data-cleaning/validate) ⭐ 433 | 🐛 51 | 🌐 R | 📅 2025-12-10 (R) - Data quality checks in R.
+* [validate](https://github.com/data-cleaning/validate) ⭐ 433 | 🐛 52 | 🌐 R | 📅 2025-12-10 (R) - Data quality checks in R.
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,851 | 🐛 6,028 | 🌐 Java | 📅 2026-08-14 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,821 | 🐛 6,044 | 🌐 Java | 📅 2026-08-15 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 152 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
-* [blocking](https://github.com/ncn-foreigners/blocking) ⭐ 14 | 🐛 2 | 🌐 R | 📅 2026-08-12 (R) - Blocking based on approximate nearest neighbours.
+* [blocking](https://github.com/ncn-foreigners/blocking) ⭐ 14 | 🐛 2 | 🌐 R | 📅 2026-08-14 (R) - Blocking based on approximate nearest neighbours.
 * [Delex](https://github.com/anhaidgroup/delex) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-04-27 (Spark, Python) - Open-source tool for blocking rules.
 
 ## Commercial Solutions
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
