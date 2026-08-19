@@ -19,7 +19,7 @@
             "last_commit": "2025-07-29T00:18:20Z",
             "owner": "dedupeio",
             "repo": "dedupe",
-            "stars": 4500
+            "stars": 4502
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-08-13T15:02:26Z",
             "owner": "moj-analytical-services",
             "repo": "splink",
-            "stars": 2342
+            "stars": 2345
           }
         },
         {
@@ -44,7 +44,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T03:39:10Z",
+            "last_commit": "2026-08-19T03:19:38Z",
             "owner": "zinggAI",
             "repo": "zingg",
             "stars": 1234
@@ -103,7 +103,7 @@
             "last_commit": "2026-03-22T06:52:36Z",
             "owner": "AI-team-UoA",
             "repo": "pyJedAI",
-            "stars": 100
+            "stars": 101
           }
         },
         {
@@ -199,7 +199,7 @@
             "last_commit": "2025-04-18T12:13:17Z",
             "owner": "life4",
             "repo": "textdistance",
-            "stars": 3539
+            "stars": 3540
           }
         },
         {
@@ -323,7 +323,7 @@
             "last_commit": "2024-10-30T21:00:49Z",
             "owner": "rspeer",
             "repo": "python-ftfy",
-            "stars": 4056
+            "stars": 4059
           }
         },
         {
@@ -334,7 +334,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-18T02:21:29Z",
+            "last_commit": "2026-08-19T03:07:22Z",
             "owner": "derek73",
             "repo": "python-nameparser",
             "stars": 713
@@ -396,10 +396,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-18T03:48:14Z",
+            "last_commit": "2026-08-19T03:15:38Z",
             "owner": "elastic",
             "repo": "elasticsearch",
-            "stars": 77807
+            "stars": 77833
           }
         },
         {
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:51:08.000Z",
+    "last_updated": "2026-08-19T03:52:52.481Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
     "enhanced_repository": "enhansome/enhansome-Awesome-Entity-Resolution",
