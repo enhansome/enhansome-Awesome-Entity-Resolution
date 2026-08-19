@@ -1,484 +1,523 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dedupe",
+              "description": "(Python) - Active learning and flexible Python tooling for entity resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4087724,
+                "language": "Python",
+                "last_commit": "2025-07-29T00:18:20Z",
+                "owner": "dedupeio",
+                "repo": "dedupe",
+                "stars": 4503
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Splink",
+              "description": "(Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223420284,
+                "language": "Python",
+                "last_commit": "2026-08-13T15:02:26Z",
+                "owner": "moj-analytical-services",
+                "repo": "splink",
+                "stars": 2345
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zingg",
+              "description": "(Python, Java) - Scalable, active learning model for entity resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 399775320,
+                "language": "Java",
+                "last_commit": "2026-08-19T09:54:15Z",
+                "owner": "zinggAI",
+                "repo": "zingg",
+                "stars": 1234
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RecordLinkage",
+              "description": "(Python) - Toolkit for prototyping entity resolution systems.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44471657,
+                "language": "Python",
+                "last_commit": "2024-02-21T18:15:38Z",
+                "owner": "J535D165",
+                "repo": "recordlinkage",
+                "stars": 1059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepMatcher",
+              "description": "(Python) - Deep learning-based entity ersolution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112776167,
+                "language": "Python",
+                "last_commit": "2024-06-18T11:46:06Z",
+                "owner": "anhaidgroup",
+                "repo": "deepmatcher",
+                "stars": 622
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastLink",
+              "description": "(R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84469064,
+                "language": "R",
+                "last_commit": "2026-02-28T16:31:09Z",
+                "owner": "kosukeimai",
+                "repo": "fastLink",
+                "stars": 293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyJedAI",
+              "description": "(Python, Java) - State-of-the-art entity resolution clustering algorithms.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 510306095,
+                "language": "Python",
+                "last_commit": "2026-03-22T06:52:36Z",
+                "owner": "AI-team-UoA",
+                "repo": "pyJedAI",
+                "stars": 101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dblink",
+              "description": "(R, Spark) - Scalable Bayesian graphical entity resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146248423,
+                "language": "Scala",
+                "last_commit": "2021-06-10T05:09:09Z",
+                "owner": "cleanzr",
+                "repo": "dblink",
+                "stars": 60
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exchanger",
+              "description": "(R, C++) - More flexible Bayesian graphical entity resolution on your laptop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322265877,
+                "language": "C++",
+                "last_commit": "2024-01-07T22:44:01Z",
+                "owner": "cleanzr",
+                "repo": "exchanger",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MatchFlow",
+              "description": "(Spark, Python) - Library for composing entity matching workflows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1000474145,
+                "language": "Python",
+                "last_commit": "2026-07-21T18:57:15Z",
+                "owner": "MadMatcher",
+                "repo": "MatchFlow",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "End-to-End Entity Resolution"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ER-Evaluation",
+              "description": "(Python) - End-to-End evaluation, including summary statistics for monitoring, principled performance metric estimators, and error analysis.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 558432643,
+                "language": "Python",
+                "last_commit": "2023-12-03T16:40:21Z",
+                "owner": "OlivierBinette",
+                "repo": "er-evaluation",
+                "stars": 38
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "clevr",
+              "description": "(R) - Performance metrics and error tables.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313594716,
+                "language": "R",
+                "last_commit": "2023-09-23T11:38:07Z",
+                "owner": "cleanzr",
+                "repo": "clevr",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Evaluation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "textdistance",
+              "description": "(Python) - Very large collection of sequence comparison functions, including token-based distances.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90356012,
+                "language": "Python",
+                "last_commit": "2025-04-18T12:13:17Z",
+                "owner": "life4",
+                "repo": "textdistance",
+                "stars": 3540
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jellyfish",
+              "description": "(Python, C) - Fast string distance and phonetic matching.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 766701,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-07-24T01:48:03Z",
+                "owner": "jamesturk",
+                "repo": "jellyfish",
+                "stars": 2230
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "py_stringmatching",
+              "description": "(Python, C) - Large set of string comparison functions and tokenizaztion methods.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53537944,
+                "language": "Python",
+                "last_commit": "2026-02-18T19:11:11Z",
+                "owner": "anhaidgroup",
+                "repo": "py_stringmatching",
+                "stars": 144
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StringCompare",
+              "description": "(Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 448306459,
+                "language": "Python",
+                "last_commit": "2025-09-21T21:04:12Z",
+                "owner": "OlivierBinette",
+                "repo": "StringCompare",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Comparator",
+              "description": "(R, C++) - Efficient string comparison functions in R.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316670402,
+                "language": "R",
+                "last_commit": "2025-09-23T01:56:14Z",
+                "owner": "ngmarchant",
+                "repo": "comparator",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "String Comparison"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FaceNet-PyTorch",
+              "description": "(Python, PyTorch) - Embeddings for facial identity resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188506754,
+                "language": "Python",
+                "last_commit": "2025-09-16T22:04:42Z",
+                "owner": "timesler",
+                "repo": "facenet-pytorch",
+                "stars": 5162
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Entity Embed",
+              "description": "(Python, PyTorch) - Pytorch text embedding model for blocking.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 333867421,
+                "language": "Jupyter Notebook",
+                "last_commit": "2022-11-18T11:36:08Z",
+                "owner": "vintasoftware",
+                "repo": "entity-embed",
+                "stars": 161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Embeddings (for pairwise comparison)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "libpostal",
+              "description": "(C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31570906,
+                "language": "C",
+                "last_commit": "2026-05-13T11:06:02Z",
+                "owner": "openvenues",
+                "repo": "libpostal",
+                "stars": 4872
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ftfy",
+              "description": "(Python) - Fixes text (unicode artifacts) for you.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5542727,
+                "language": "Python",
+                "last_commit": "2024-10-30T21:00:49Z",
+                "owner": "rspeer",
+                "repo": "python-ftfy",
+                "stars": 4059
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "python-nameparser",
+              "description": "(Python) - Separate names into individual components.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18353524,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:15:59Z",
+                "owner": "derek73",
+                "repo": "python-nameparser",
+                "stars": 713
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ProbablePeople",
+              "description": "Western name parser.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26278969,
+                "language": "Python",
+                "last_commit": "2025-05-15T19:57:08Z",
+                "owner": "datamade",
+                "repo": "probablepeople",
+                "stars": 623
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cleanco",
+              "description": "(Python) - Company name cleaning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17753605,
+                "language": "Python",
+                "last_commit": "2026-06-23T13:30:02Z",
+                "owner": "psolin",
+                "repo": "cleanco",
+                "stars": 360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nominally",
+              "description": "Name parser for record linkage.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206201426,
+                "language": "Python",
+                "last_commit": "2025-09-03T22:47:55Z",
+                "owner": "vaneseltine",
+                "repo": "nominally",
+                "stars": 41
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data Cleaning and Parsing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ElasticSearch",
+              "description": "Search text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507775,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:56:29Z",
+                "owner": "elastic",
+                "repo": "elasticsearch",
+                "stars": 77837
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StarSpace",
+              "description": "(C++, Python) - Embedding model suitable for similarity learning.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 95696288,
+                "language": "C++",
+                "last_commit": "2022-12-04T04:02:21Z",
+                "owner": "facebookresearch",
+                "repo": "StarSpace",
+                "stars": 3954
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeezyMatch",
+              "description": "(Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261796758,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-10-16T14:52:18Z",
+                "owner": "Living-with-machines",
+                "repo": "DeezyMatch",
+                "stars": 152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "[BlockingPy)(https://github.com/ncn-foreigners/BlockingPy",
+              "description": ") (Python) -- Blocking based on approximate nearest neighbours.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 871218514,
+                "language": "Python",
+                "last_commit": "2026-03-09T13:18:30Z",
+                "owner": "ncn-foreigners",
+                "repo": "BlockingPy",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "blocking",
+              "description": "(R) - Blocking based on approximate nearest neighbours.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 710278323,
+                "language": "R",
+                "last_commit": "2026-08-14T10:59:52Z",
+                "owner": "ncn-foreigners",
+                "repo": "blocking",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Delex",
+              "description": "(Spark, Python) - Open-source tool for blocking rules.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959469969,
+                "language": "Python",
+                "last_commit": "2026-04-27T17:05:48Z",
+                "owner": "anhaidgroup",
+                "repo": "delex",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blocking, Candidate Selection, and Search"
+        }
+      ],
       "title": "Open-Source Software"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dedupe",
-          "description": "(Python) - Active learning and flexible Python tooling for entity resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-07-29T00:18:20Z",
-            "owner": "dedupeio",
-            "repo": "dedupe",
-            "stars": 4502
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Splink",
-          "description": "(Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-13T15:02:26Z",
-            "owner": "moj-analytical-services",
-            "repo": "splink",
-            "stars": 2345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Zingg",
-          "description": "(Python, Java) - Scalable, active learning model for entity resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-19T03:19:38Z",
-            "owner": "zinggAI",
-            "repo": "zingg",
-            "stars": 1234
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RecordLinkage",
-          "description": "(Python) - Toolkit for prototyping entity resolution systems.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-02-21T18:15:38Z",
-            "owner": "J535D165",
-            "repo": "recordlinkage",
-            "stars": 1059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeepMatcher",
-          "description": "(Python) - Deep learning-based entity ersolution",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-18T11:46:06Z",
-            "owner": "anhaidgroup",
-            "repo": "deepmatcher",
-            "stars": 622
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FastLink",
-          "description": "(R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-02-28T16:31:09Z",
-            "owner": "kosukeimai",
-            "repo": "fastLink",
-            "stars": 293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyJedAI",
-          "description": "(Python, Java) - State-of-the-art entity resolution clustering algorithms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-22T06:52:36Z",
-            "owner": "AI-team-UoA",
-            "repo": "pyJedAI",
-            "stars": 101
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dblink",
-          "description": "(R, Spark) - Scalable Bayesian graphical entity resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2021-06-10T05:09:09Z",
-            "owner": "cleanzr",
-            "repo": "dblink",
-            "stars": 60
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exchanger",
-          "description": "(R, C++) - More flexible Bayesian graphical entity resolution on your laptop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-01-07T22:44:01Z",
-            "owner": "cleanzr",
-            "repo": "exchanger",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MatchFlow",
-          "description": "(Spark, Python) - Library for composing entity matching workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-21T18:57:15Z",
-            "owner": "MadMatcher",
-            "repo": "MatchFlow",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "End-to-End Entity Resolution"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ER-Evaluation",
-          "description": "(Python) - End-to-End evaluation, including summary statistics for monitoring, principled performance metric estimators, and error analysis.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-12-03T16:40:21Z",
-            "owner": "OlivierBinette",
-            "repo": "er-evaluation",
-            "stars": 38
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "clevr",
-          "description": "(R) - Performance metrics and error tables.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2023-09-23T11:38:07Z",
-            "owner": "cleanzr",
-            "repo": "clevr",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Evaluation"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "textdistance",
-          "description": "(Python) - Very large collection of sequence comparison functions, including token-based distances.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-04-18T12:13:17Z",
-            "owner": "life4",
-            "repo": "textdistance",
-            "stars": 3540
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jellyfish",
-          "description": "(Python, C) - Fast string distance and phonetic matching.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-07-24T01:48:03Z",
-            "owner": "jamesturk",
-            "repo": "jellyfish",
-            "stars": 2230
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "py_stringmatching",
-          "description": "(Python, C) - Large set of string comparison functions and tokenizaztion methods.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-02-18T19:11:11Z",
-            "owner": "anhaidgroup",
-            "repo": "py_stringmatching",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StringCompare",
-          "description": "(Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-21T21:04:12Z",
-            "owner": "OlivierBinette",
-            "repo": "StringCompare",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Comparator",
-          "description": "(R, C++) - Efficient string comparison functions in R.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2025-09-23T01:56:14Z",
-            "owner": "ngmarchant",
-            "repo": "comparator",
-            "stars": 19
-          }
-        }
-      ],
-      "title": "String Comparison"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "FaceNet-PyTorch",
-          "description": "(Python, PyTorch) - Embeddings for facial identity resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-16T22:04:42Z",
-            "owner": "timesler",
-            "repo": "facenet-pytorch",
-            "stars": 5162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Entity Embed",
-          "description": "(Python, PyTorch) - Pytorch text embedding model for blocking.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2022-11-18T11:36:08Z",
-            "owner": "vintasoftware",
-            "repo": "entity-embed",
-            "stars": 161
-          }
-        }
-      ],
-      "title": "Embeddings (for pairwise comparison)"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "libpostal",
-          "description": "(C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-05-13T11:06:02Z",
-            "owner": "openvenues",
-            "repo": "libpostal",
-            "stars": 4872
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ftfy",
-          "description": "(Python) - Fixes text (unicode artifacts) for you.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-30T21:00:49Z",
-            "owner": "rspeer",
-            "repo": "python-ftfy",
-            "stars": 4059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "python-nameparser",
-          "description": "(Python) - Separate names into individual components.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-19T03:07:22Z",
-            "owner": "derek73",
-            "repo": "python-nameparser",
-            "stars": 713
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ProbablePeople",
-          "description": "Western name parser.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-05-15T19:57:08Z",
-            "owner": "datamade",
-            "repo": "probablepeople",
-            "stars": 623
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cleanco",
-          "description": "(Python) - Company name cleaning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-06-23T13:30:02Z",
-            "owner": "psolin",
-            "repo": "cleanco",
-            "stars": 360
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Nominally",
-          "description": "Name parser for record linkage.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-09-03T22:47:55Z",
-            "owner": "vaneseltine",
-            "repo": "nominally",
-            "stars": 41
-          }
-        }
-      ],
-      "title": "Data Cleaning and Parsing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ElasticSearch",
-          "description": "Search text.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-19T03:15:38Z",
-            "owner": "elastic",
-            "repo": "elasticsearch",
-            "stars": 77833
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "StarSpace",
-          "description": "(C++, Python) - Embedding model suitable for similarity learning.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2022-12-04T04:02:21Z",
-            "owner": "facebookresearch",
-            "repo": "StarSpace",
-            "stars": 3954
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DeezyMatch",
-          "description": "(Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-10-16T14:52:18Z",
-            "owner": "Living-with-machines",
-            "repo": "DeezyMatch",
-            "stars": 152
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "[BlockingPy)(https://github.com/ncn-foreigners/BlockingPy",
-          "description": ") (Python) -- Blocking based on approximate nearest neighbours.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-03-09T13:18:30Z",
-            "owner": "ncn-foreigners",
-            "repo": "BlockingPy",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "blocking",
-          "description": "(R) - Blocking based on approximate nearest neighbours.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2026-08-14T10:59:52Z",
-            "owner": "ncn-foreigners",
-            "repo": "blocking",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Delex",
-          "description": "(Spark, Python) - Open-source tool for blocking rules.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-27T17:05:48Z",
-            "owner": "anhaidgroup",
-            "repo": "delex",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Blocking, Candidate Selection, and Search"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:52:52.481Z",
+    "last_updated": "2026-08-19T12:07:19.648Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
+    "original_repository_id": 709038135,
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
     "enhanced_repository": "enhansome/enhansome-Awesome-Entity-Resolution",
     "enhanced_repository_description": null,
