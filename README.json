@@ -17,7 +17,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4503
+                "stars": 4504
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-13T15:02:26Z",
+                "last_commit": "2026-08-19T14:36:45Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2345
+                "stars": 2346
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 399775320,
                 "language": "Java",
-                "last_commit": "2026-08-19T09:54:15Z",
+                "last_commit": "2026-08-19T19:38:40Z",
                 "owner": "zinggAI",
                 "repo": "zingg",
                 "stars": 1234
@@ -330,7 +330,7 @@
                 "last_commit": "2026-05-13T11:06:02Z",
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4872
+                "stars": 4873
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2024-10-30T21:00:49Z",
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4059
+                "stars": 4060
               }
             },
             {
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:56:29Z",
+                "last_commit": "2026-08-20T01:31:51Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77837
+                "stars": 77844
               }
             },
             {
@@ -457,7 +457,7 @@
                 "last_commit": "2024-10-16T14:52:18Z",
                 "owner": "Living-with-machines",
                 "repo": "DeezyMatch",
-                "stars": 152
+                "stars": 151
               }
             },
             {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:07:19.648Z",
+    "last_updated": "2026-08-20T03:52:40.465Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_id": 709038135,
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
