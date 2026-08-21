@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-19T14:36:45Z",
+                "last_commit": "2026-08-20T14:37:26Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2346
+                "stars": 2349
               }
             },
             {
@@ -44,10 +44,10 @@
                 "archived": false,
                 "id": 399775320,
                 "language": "Java",
-                "last_commit": "2026-08-19T19:38:40Z",
+                "last_commit": "2026-08-21T03:54:40Z",
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1234
+                "stars": 1235
               }
             },
             {
@@ -122,7 +122,7 @@
                 "last_commit": "2021-06-10T05:09:09Z",
                 "owner": "cleanzr",
                 "repo": "dblink",
-                "stars": 60
+                "stars": 59
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-07-24T01:48:03Z",
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2230
+                "stars": 2228
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-05-13T11:06:02Z",
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4873
+                "stars": 4876
               }
             },
             {
@@ -345,7 +345,7 @@
                 "last_commit": "2024-10-30T21:00:49Z",
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4060
+                "stars": 4059
               }
             },
             {
@@ -357,10 +357,10 @@
                 "archived": false,
                 "id": 18353524,
                 "language": "Python",
-                "last_commit": "2026-08-19T09:15:59Z",
+                "last_commit": "2026-08-21T01:31:09Z",
                 "owner": "derek73",
                 "repo": "python-nameparser",
-                "stars": 713
+                "stars": 714
               }
             },
             {
@@ -375,7 +375,7 @@
                 "last_commit": "2025-05-15T19:57:08Z",
                 "owner": "datamade",
                 "repo": "probablepeople",
-                "stars": 623
+                "stars": 621
               }
             },
             {
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-20T01:31:51Z",
+                "last_commit": "2026-08-21T02:35:35Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77844
+                "stars": 77852
               }
             },
             {
@@ -442,7 +442,7 @@
                 "last_commit": "2022-12-04T04:02:21Z",
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3954
+                "stars": 3952
               }
             },
             {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:52:40.465Z",
+    "last_updated": "2026-08-21T03:55:41.764Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_id": 709038135,
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
