@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T14:33:55Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2353
+                "stars": 2354
               }
             },
             {
@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 399775320,
                 "language": "Java",
-                "last_commit": "2026-08-21T03:54:40Z",
+                "last_commit": "2026-08-22T07:29:51Z",
                 "owner": "zinggAI",
                 "repo": "zingg",
                 "stars": 1236
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 18353524,
                 "language": "Python",
-                "last_commit": "2026-08-22T02:25:36Z",
+                "last_commit": "2026-08-23T01:58:36Z",
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 714
@@ -424,10 +424,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-22T01:57:44Z",
+                "last_commit": "2026-08-23T03:28:58Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77852
+                "stars": 77851
               }
             },
             {
@@ -515,7 +515,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:48:30.449Z",
+    "last_updated": "2026-08-23T03:56:24.207Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_id": 709038135,
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
