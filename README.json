@@ -17,7 +17,7 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4505
+                "stars": 4506
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-24T14:36:14Z",
+                "last_commit": "2026-08-25T16:39:29Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2359
+                "stars": 2364
               }
             },
             {
@@ -62,7 +62,7 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1059
+                "stars": 1060
               }
             },
             {
@@ -330,7 +330,7 @@
                 "last_commit": "2026-05-13T11:06:02Z",
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4879
+                "stars": 4880
               }
             },
             {
@@ -357,7 +357,7 @@
                 "archived": false,
                 "id": 18353524,
                 "language": "Python",
-                "last_commit": "2026-08-25T06:28:25Z",
+                "last_commit": "2026-08-26T02:53:07Z",
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715
@@ -446,10 +446,10 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-25T06:35:32Z",
+                "last_commit": "2026-08-26T03:18:53Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77860
+                "stars": 77864
               }
             },
             {
@@ -537,7 +537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:35:46.800Z",
+    "last_updated": "2026-08-26T03:58:26.189Z",
     "original_repository": "OlivierBinette/Awesome-Entity-Resolution",
     "original_repository_id": 709038135,
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
