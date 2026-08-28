@@ -17,8 +17,9 @@
                 "last_commit": "2025-07-29T00:18:20Z",
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4508
-              }
+                "stars": 4509
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 223420284,
                 "language": "Python",
-                "last_commit": "2026-08-26T21:27:25Z",
+                "last_commit": "2026-08-28T14:38:16Z",
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2366
-              }
+                "stars": 2369
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-26T04:32:33Z",
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1239
-              }
+                "stars": 1238
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -62,8 +65,9 @@
                 "last_commit": "2024-02-21T18:15:38Z",
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1060
-              }
+                "stars": 1061
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "anhaidgroup",
                 "repo": "deepmatcher",
                 "stars": 623
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "kosukeimai",
                 "repo": "fastLink",
                 "stars": 293
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "AI-team-UoA",
                 "repo": "pyJedAI",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "cleanzr",
                 "repo": "dblink",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "cleanzr",
                 "repo": "exchanger",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "MadMatcher",
                 "repo": "MatchFlow",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -175,7 +185,8 @@
                 "owner": "OlivierBinette",
                 "repo": "er-evaluation",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "cleanzr",
                 "repo": "clevr",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -212,7 +224,8 @@
                 "owner": "life4",
                 "repo": "textdistance",
                 "stars": 3540
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -227,7 +240,8 @@
                 "owner": "jamesturk",
                 "repo": "jellyfish",
                 "stars": 2229
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "anhaidgroup",
                 "repo": "py_stringmatching",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "OlivierBinette",
                 "repo": "StringCompare",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "ngmarchant",
                 "repo": "comparator",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -294,7 +311,8 @@
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
                 "stars": 5162
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -309,7 +327,8 @@
                 "owner": "vintasoftware",
                 "repo": "entity-embed",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -331,7 +350,8 @@
                 "owner": "openvenues",
                 "repo": "libpostal",
                 "stars": 4879
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -346,7 +366,8 @@
                 "owner": "rspeer",
                 "repo": "python-ftfy",
                 "stars": 4060
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -357,11 +378,12 @@
                 "archived": false,
                 "id": 18353524,
                 "language": "Python",
-                "last_commit": "2026-08-27T07:24:57Z",
+                "last_commit": "2026-08-28T09:22:39Z",
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -376,7 +398,8 @@
                 "owner": "datamade",
                 "repo": "probablepeople",
                 "stars": 622
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -391,7 +414,8 @@
                 "owner": "psolin",
                 "repo": "cleanco",
                 "stars": 360
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -406,7 +430,8 @@
                 "owner": "vaneseltine",
                 "repo": "nominally",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -428,7 +453,8 @@
                 "owner": "data-cleaning",
                 "repo": "validate",
                 "stars": 434
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -446,11 +472,12 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-27T14:03:47Z",
+                "last_commit": "2026-08-28T15:09:16Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77870
-              }
+                "stars": 77873
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -465,7 +492,8 @@
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
                 "stars": 3952
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -480,7 +508,8 @@
                 "owner": "Living-with-machines",
                 "repo": "DeezyMatch",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -495,7 +524,8 @@
                 "owner": "ncn-foreigners",
                 "repo": "BlockingPy",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -510,7 +540,8 @@
                 "owner": "ncn-foreigners",
                 "repo": "blocking",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             },
             {
               "node_type": "item",
@@ -525,7 +556,8 @@
                 "owner": "anhaidgroup",
                 "repo": "delex",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:15:00.994Z"
             }
           ],
           "description": null,
@@ -537,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:04:05.395Z",
+    "last_updated": "2026-08-28T15:15:00.994Z",
     "original_repository_info": {
       "archived": false,
       "id": 709038135,
