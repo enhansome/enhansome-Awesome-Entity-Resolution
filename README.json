@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":id: A python library for accurate and scalable fuzzy matching, record deduplication and entity-resolution.",
+                "homepage": "https://docs.dedupe.io",
                 "id": 4087724,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-29T00:18:20Z",
+                "open_issues": 91,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4509
+                "stars": 4509,
+                "topics": [
+                  "clustering",
+                  "datamade",
+                  "de-duplicating",
+                  "dedupe",
+                  "dedupe-library",
+                  "entity-resolution",
+                  "python",
+                  "python-library",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -28,12 +43,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends",
+                "homepage": "https://moj-analytical-services.github.io/splink/",
                 "id": 223420284,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:38:16Z",
+                "open_issues": 216,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2369
+                "stars": 2369,
+                "topics": [
+                  "data-matching",
+                  "data-science",
+                  "deduplicate-data",
+                  "deduplication",
+                  "duckdb",
+                  "em-algorithm",
+                  "entity-resolution",
+                  "fuzzy-matching",
+                  "record-linkage",
+                  "spark",
+                  "uk-gov-data-science"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -44,12 +76,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scalable master data management, identity resolution, entity resolution, and deduplication using ML",
+                "homepage": null,
                 "id": 399775320,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T04:32:33Z",
+                "open_issues": 88,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1238
+                "stars": 1238,
+                "topics": [
+                  "cdp",
+                  "customer-data-platform",
+                  "data-science",
+                  "databricks",
+                  "dataengineering",
+                  "datalake",
+                  "dataquality",
+                  "dedupe",
+                  "deduplication",
+                  "entity-resolution",
+                  "fuzzy-matching",
+                  "fuzzymatch",
+                  "identity-resolution",
+                  "master-data",
+                  "master-data-management",
+                  "masterdata",
+                  "mdm",
+                  "snowflake",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -60,12 +117,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A powerful and modular toolkit for record linkage and duplicate detection in Python",
+                "homepage": "http://recordlinkage.readthedocs.io/",
                 "id": 44471657,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-02-21T18:15:38Z",
+                "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1061
+                "stars": 1062,
+                "topics": [
+                  "data-matching",
+                  "dedupe",
+                  "deduplication",
+                  "entity-resolution",
+                  "machine-learning",
+                  "privacy",
+                  "python",
+                  "python-library",
+                  "record-linkage",
+                  "similarity",
+                  "string-distance",
+                  "utrecht-university"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -76,12 +151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python package for performing Entity and Text Matching using Deep Learning.",
+                "homepage": null,
                 "id": 112776167,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-06-18T11:46:06Z",
+                "open_issues": 75,
                 "owner": "anhaidgroup",
                 "repo": "deepmatcher",
-                "stars": 623
+                "stars": 623,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -92,12 +172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "R package fastLink: Fast Probabilistic Record Linkage",
+                "homepage": null,
                 "id": 84469064,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-02-28T16:31:09Z",
+                "open_issues": 36,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293
+                "stars": 293,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -108,12 +193,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source library that leverages Python’s data science ecosystem to build powerful end-to-end Entity Resolution workflows. ",
+                "homepage": "https://pyjedai.readthedocs.io",
                 "id": 510306095,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-22T06:52:36Z",
+                "open_issues": 1,
                 "owner": "AI-team-UoA",
                 "repo": "pyJedAI",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "data-disambigation",
+                  "data-matching",
+                  "deduplication",
+                  "duplicate-detection",
+                  "entity-matching",
+                  "entity-resolution",
+                  "fuzzy-matching",
+                  "link-discovery",
+                  "machine-learning",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -124,12 +225,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed Bayesian Entity Resolution in Apache Spark",
+                "homepage": null,
                 "id": 146248423,
                 "language": "Scala",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-10T05:09:09Z",
+                "open_issues": 4,
                 "owner": "cleanzr",
                 "repo": "dblink",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "apache-spark",
+                  "bayesian-inference",
+                  "distributed-machine-learning",
+                  "entity-resolution",
+                  "mcmc",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -140,12 +253,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bayesian Entity Resolution with Exchangeable Random Partition Priors",
+                "homepage": null,
                 "id": 322265877,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-01-07T22:44:01Z",
+                "open_issues": 0,
                 "owner": "cleanzr",
                 "repo": "exchanger",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bayesian-inference",
+                  "clustering",
+                  "entity-resolution",
+                  "mcmc",
+                  "r-package",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -156,12 +281,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://madmatcher.ai",
                 "id": 1000474145,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-21T18:57:15Z",
+                "open_issues": 0,
                 "owner": "MadMatcher",
                 "repo": "MatchFlow",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "active-learning",
+                  "data-integration",
+                  "entity-matching",
+                  "python",
+                  "record-linkage",
+                  "spark"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -179,12 +316,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An End-to-End Evaluation Framework for Entity Resolution Systems",
+                "homepage": "https://er-evaluation.readthedocs.io/en/latest",
                 "id": 558432643,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2023-12-03T16:40:21Z",
+                "open_issues": 4,
                 "owner": "OlivierBinette",
                 "repo": "er-evaluation",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "author-name-disambiguation",
+                  "data-science",
+                  "deduplication",
+                  "disambiguation",
+                  "duplicate-detection",
+                  "entity-resolution",
+                  "evaluation",
+                  "fuzzy-matching",
+                  "inventor-name-disambiguation",
+                  "matching",
+                  "ml-evaluation",
+                  "ml-testing",
+                  "record-linkage",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -195,12 +352,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Clustering and Link Prediction Evaluation in R",
+                "homepage": null,
                 "id": 313594716,
                 "language": "R",
+                "license": "GPL-2.0",
                 "last_commit": "2023-09-23T11:38:07Z",
+                "open_issues": 1,
                 "owner": "cleanzr",
                 "repo": "clevr",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "clustering-evaluation",
+                  "entity-resolution",
+                  "evaluation-metrics",
+                  "link-prediction",
+                  "r-package",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -218,12 +387,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.",
+                "homepage": null,
                 "id": 90356012,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-04-18T12:13:17Z",
+                "open_issues": 10,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3540
+                "stars": 3540,
+                "topics": [
+                  "algorithm",
+                  "algorithms",
+                  "damerau-levenshtein",
+                  "damerau-levenshtein-distance",
+                  "diff",
+                  "distance",
+                  "distance-calculation",
+                  "hamming-distance",
+                  "jellyfish",
+                  "levenshtein",
+                  "levenshtein-distance",
+                  "python",
+                  "textdistance"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -234,12 +422,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🪼 a python library for doing approximate and phonetic matching of strings.",
+                "homepage": "https://jpt.sh/projects/jellyfish/",
                 "id": 766701,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-24T01:48:03Z",
+                "open_issues": 7,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2229
+                "stars": 2229,
+                "topics": [
+                  "fuzzy-search",
+                  "hacktoberfest",
+                  "hamming",
+                  "jaro-winkler",
+                  "levenshtein",
+                  "metaphone",
+                  "python",
+                  "soundex"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -250,12 +452,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comprehensive and scalable set of string tokenizers and similarity measures in Python",
+                "homepage": "https://sites.google.com/site/anhaidgroup/projects/py_stringmatching",
                 "id": 53537944,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-18T19:11:11Z",
+                "open_issues": 29,
                 "owner": "anhaidgroup",
                 "repo": "py_stringmatching",
-                "stars": 144
+                "stars": 144,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -266,12 +473,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient String Comparison Functions and Fuzzy String Matching",
+                "homepage": "https://olivierbinette.github.io/StringCompare/",
                 "id": 448306459,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-21T21:04:12Z",
+                "open_issues": 13,
                 "owner": "OlivierBinette",
                 "repo": "StringCompare",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "damerau-levenshtein",
+                  "edit-distance",
+                  "fuzzy-matching",
+                  "jaro-winkler",
+                  "levenshtein-distance",
+                  "pybind11",
+                  "python",
+                  "string-matching"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -282,12 +503,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Similarity and distance measures for clustering and record linkage applications in R",
+                "homepage": null,
                 "id": 316670402,
                 "language": "R",
+                "license": "GPL-2.0",
                 "last_commit": "2025-09-23T01:56:14Z",
+                "open_issues": 3,
                 "owner": "ngmarchant",
                 "repo": "comparator",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "clustering",
+                  "distance-measures",
+                  "distance-metrics",
+                  "entity-resolution",
+                  "r-package",
+                  "record-linkage",
+                  "similarity-measures",
+                  "string-similarity"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -305,12 +540,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pretrained Pytorch face detection (MTCNN) and facial recognition (InceptionResnet) models",
+                "homepage": null,
                 "id": 188506754,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-09-16T22:04:42Z",
+                "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5162
+                "stars": 5162,
+                "topics": [
+                  "face-detection",
+                  "face-identification",
+                  "face-recognition",
+                  "face-tracking",
+                  "facial-recognition",
+                  "inception-resnet",
+                  "mtcnn",
+                  "pretrained-models",
+                  "pytorch",
+                  "resnet"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -321,12 +572,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch library for transforming entities like companies, products, etc. into vectors to support scalable Record Linkage / Entity Resolution using Approximate Nearest Neighbors.",
+                "homepage": "https://entity-embed.readthedocs.io/en/latest/",
                 "id": 333867421,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-11-18T11:36:08Z",
+                "open_issues": 4,
                 "owner": "vintasoftware",
                 "repo": "entity-embed",
-                "stars": 161
+                "stars": 161,
+                "topics": [
+                  "approximate-nearest-neighbors",
+                  "data-matching",
+                  "deduplication",
+                  "deep-learning",
+                  "embeddings",
+                  "entity-matching",
+                  "entity-resolution",
+                  "python",
+                  "pytorch",
+                  "record-linkage",
+                  "representation-learning"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -344,12 +612,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.",
+                "homepage": null,
                 "id": 31570906,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-05-13T11:06:02Z",
+                "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4879
+                "stars": 4879,
+                "topics": [
+                  "address",
+                  "address-parser",
+                  "c",
+                  "deduping",
+                  "deduplication",
+                  "international",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -360,12 +644,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fixes mojibake and other glitches in Unicode text, after the fact.",
+                "homepage": "http://ftfy.readthedocs.org",
                 "id": 5542727,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-30T21:00:49Z",
+                "open_issues": 25,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4060
+                "stars": 4060,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -376,12 +665,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple Python module for parsing human names into their individual components ",
+                "homepage": "http://nameparser.readthedocs.org",
                 "id": 18353524,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T09:22:39Z",
+                "open_issues": 31,
                 "owner": "derek73",
                 "repo": "python-nameparser",
-                "stars": 715
+                "stars": 715,
+                "topics": [
+                  "python",
+                  "python-module",
+                  "text-parser",
+                  "text-processing"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -392,12 +691,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":family: a python library for parsing unstructured western names into name components.",
+                "homepage": "http://parserator.datamade.us/probablepeople",
                 "id": 26278969,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-15T19:57:08Z",
+                "open_issues": 67,
                 "owner": "datamade",
                 "repo": "probablepeople",
-                "stars": 622
+                "stars": 622,
+                "topics": [
+                  "names",
+                  "parse",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -408,12 +716,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Company Name Processor written in Python",
+                "homepage": null,
                 "id": 17753605,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-06-23T13:30:02Z",
+                "open_issues": 16,
                 "owner": "psolin",
                 "repo": "cleanco",
-                "stars": 360
+                "stars": 360,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -424,12 +737,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A maximum-strength name parser for record linkage.",
+                "homepage": null,
                 "id": 206201426,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-09-03T22:47:55Z",
+                "open_issues": 6,
                 "owner": "vaneseltine",
                 "repo": "nominally",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "data-matching",
+                  "data-science",
+                  "deduplication",
+                  "entity-resolution",
+                  "human-name",
+                  "parser",
+                  "parsing",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -447,12 +774,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Professional data validation for the R environment",
+                "homepage": null,
                 "id": 17057497,
                 "language": "R",
+                "license": null,
                 "last_commit": "2025-12-10T15:35:20Z",
+                "open_issues": 52,
                 "owner": "data-cleaning",
                 "repo": "validate",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "data-cleaning",
+                  "r",
+                  "validation"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -470,12 +806,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T15:09:16Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77873
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -486,12 +831,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Learning embeddings for classification, retrieval and ranking.",
+                "homepage": null,
                 "id": 95696288,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-12-04T04:02:21Z",
+                "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3952
+                "stars": 3952,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -502,12 +852,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Flexible Deep Learning Approach to Fuzzy String Matching",
+                "homepage": "https://living-with-machines.github.io/DeezyMatch/",
                 "id": 261796758,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2024-10-16T14:52:18Z",
+                "open_issues": 30,
                 "owner": "Living-with-machines",
                 "repo": "DeezyMatch",
-                "stars": 151
+                "stars": 151,
+                "topics": [
+                  "deep-learning",
+                  "hacktoberfest",
+                  "hut23",
+                  "hut23-96",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nlp"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -518,12 +881,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blocking records for record linkage and data deduplication based on ANN algorithms in Python.",
+                "homepage": "https://blockingpy.readthedocs.io/en/latest/",
                 "id": 871218514,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-09T13:18:30Z",
+                "open_issues": 1,
                 "owner": "ncn-foreigners",
                 "repo": "BlockingPy",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "blocking",
+                  "deduplication",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -534,12 +906,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An R package for blocking records for record linkage / data deduplication based on approximate nearest neighbours algorithms.",
+                "homepage": "https://ncn-foreigners.github.io/blocking/",
                 "id": 710278323,
                 "language": "R",
+                "license": null,
                 "last_commit": "2026-08-14T10:59:52Z",
+                "open_issues": 2,
                 "owner": "ncn-foreigners",
                 "repo": "blocking",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "annoy",
+                  "approximate-nearest-neighbor-search",
+                  "deduplication",
+                  "entity-resolution",
+                  "hnsw",
+                  "igraph",
+                  "record-linkage"
+                ]
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             },
@@ -550,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 959469969,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-04-27T17:05:48Z",
+                "open_issues": 0,
                 "owner": "anhaidgroup",
                 "repo": "delex",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
             }
@@ -569,15 +959,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:15:00.994Z",
+    "last_updated": "2026-08-29T04:56:11.961Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of entity resolution software and resources.",
+      "homepage": null,
       "id": 709038135,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-03-24T16:23:58Z",
+      "open_issues": 5,
       "owner": "OlivierBinette",
       "repo": "Awesome-Entity-Resolution",
-      "stars": 136
+      "stars": 136,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "deduplication",
+        "entity-resolution",
+        "identity-resolution",
+        "record-linkage"
+      ]
     },
     "original_repository_sha": "bd0db05fd68e84359ab579c4d4af771af19ed659",
     "enhanced_repository": "enhansome/enhansome-Awesome-Entity-Resolution",
