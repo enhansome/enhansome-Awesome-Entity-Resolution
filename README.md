@@ -46,14 +46,14 @@
 
 ### Embeddings (for pairwise comparison)
 
-* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,162 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
+* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,163 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
 * [Entity Embed](https://github.com/vintasoftware/entity-embed) ⭐ 161 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-18 (Python, PyTorch) - Pytorch text embedding model for blocking.
 
 ### Data Cleaning and Parsing
 
 * [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,879 | 🐛 299 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
 * [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,060 | 🐛 25 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
-* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 715 | 🐛 31 | 🌐 Python | 📅 2026-08-28 (Python) - Separate names into individual components.
+* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 715 | 🐛 30 | 🌐 Python | 📅 2026-08-29 (Python) - Separate names into individual components.
 * [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 622 | 🐛 67 | 🌐 Python | 📅 2025-05-15 - Western name parser.
 * [cleanco](https://github.com/psolin/cleanco) ⭐ 360 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
 * [Nominally](https://github.com/vaneseltine/nominally) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-09-03 - Name parser for record linkage.
@@ -66,7 +66,7 @@
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,877 | 🐛 5,998 | 🌐 Java | 📅 2026-08-29 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,875 | 🐛 6,003 | 🌐 Java | 📅 2026-08-29 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 151 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
