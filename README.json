@@ -549,7 +549,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5163,
+                "stars": 5164,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T08:47:39Z",
-                "open_issues": 30,
+                "last_commit": "2026-08-30T07:28:33Z",
+                "open_issues": 32,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715,
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T09:53:39Z",
-                "open_issues": 6003,
+                "last_commit": "2026-08-30T06:44:50Z",
+                "open_issues": 6014,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77875,
+                "stars": 77877,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -940,7 +940,7 @@
                 "id": 959469969,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-04-27T17:05:48Z",
+                "last_commit": "2026-08-29T20:26:21Z",
                 "open_issues": 0,
                 "owner": "anhaidgroup",
                 "repo": "delex",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T09:57:30.486Z",
+    "last_updated": "2026-08-30T09:08:39.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
