@@ -21,7 +21,7 @@
                 "open_issues": 91,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4509,
+                "stars": 4510,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-28T14:38:16Z",
-                "open_issues": 216,
+                "last_commit": "2026-08-31T14:35:45Z",
+                "open_issues": 217,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2369,
+                "stars": 2371,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -81,11 +81,11 @@
                 "id": 399775320,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-26T04:32:33Z",
+                "last_commit": "2026-09-01T04:39:07Z",
                 "open_issues": 90,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1238,
+                "stars": 1239,
                 "topics": [
                   "cdp",
                   "customer-data-platform",
@@ -431,7 +431,7 @@
                 "open_issues": 7,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2229,
+                "stars": 2230,
                 "topics": [
                   "fuzzy-search",
                   "hacktoberfest",
@@ -549,7 +549,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5163,
+                "stars": 5164,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4879,
+                "stars": 4880,
                 "topics": [
                   "address",
                   "address-parser",
@@ -653,7 +653,7 @@
                 "open_issues": 25,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T09:25:20Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-01T06:02:56Z",
+                "open_issues": 33,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715,
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-31T09:33:27Z",
-                "open_issues": 6031,
+                "last_commit": "2026-09-01T08:23:09Z",
+                "open_issues": 6033,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77881,
+                "stars": 77886,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T09:37:26.300Z",
+    "last_updated": "2026-09-01T08:33:03.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
