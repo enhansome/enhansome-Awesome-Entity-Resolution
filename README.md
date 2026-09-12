@@ -19,8 +19,8 @@
 ### End-to-End Entity Resolution
 
 * [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,512 | 🐛 92 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
-* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,398 | 🐛 208 | 🌐 Python | 📅 2026-09-10 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
-* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,246 | 🐛 92 | 🌐 Java | 📅 2026-09-04 (Python, Java) - Scalable, active learning model for entity resolution.
+* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,398 | 🐛 211 | 🌐 Python | 📅 2026-09-11 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
+* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,247 | 🐛 92 | 🌐 Java | 📅 2026-09-04 (Python, Java) - Scalable, active learning model for entity resolution.
 * [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,062 | 🐛 64 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
 * [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 623 | 🐛 75 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
 * [FastLink](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 36 | 🌐 R | 📅 2026-02-28 (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
@@ -37,7 +37,7 @@
 
 ### String Comparison
 
-* [textdistance](https://github.com/life4/textdistance) ⭐ 3,540 | 🐛 10 | 🌐 Python | 📅 2025-04-18 (Python) - Very large collection of sequence comparison functions, including token-based distances.
+* [textdistance](https://github.com/life4/textdistance) ⭐ 3,539 | 🐛 10 | 🌐 Python | 📅 2025-04-18 (Python) - Very large collection of sequence comparison functions, including token-based distances.
 * [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,232 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-07-24 (Python, C) - Fast string distance and phonetic matching.
 * [py\_stringmatching](https://github.com/anhaidgroup/py_stringmatching) ⭐ 144 | 🐛 29 | 🌐 Python | 📅 2026-02-18 (Python, C) - Large set of string comparison functions and tokenizaztion methods.
 * [StringCompare](https://github.com/OlivierBinette/StringCompare) ⭐ 21 | 🐛 13 | 🌐 Python | 📅 2025-09-21 (Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.
@@ -52,7 +52,7 @@
 ### Data Cleaning and Parsing
 
 * [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,885 | 🐛 299 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
-* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,063 | 🐛 25 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
+* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,064 | 🐛 25 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
 * [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 715 | 🐛 20 | 🌐 Python | 📅 2026-09-11 (Python) - Separate names into individual components.
 * [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 622 | 🐛 68 | 🌐 Python | 📅 2025-05-15 - Western name parser.
 * [cleanco](https://github.com/psolin/cleanco) ⭐ 361 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
@@ -66,7 +66,7 @@
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,904 | 🐛 6,061 | 🌐 Java | 📅 2026-09-11 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 77,907 | 🐛 6,043 | 🌐 Java | 📅 2026-09-12 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 151 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
