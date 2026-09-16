@@ -21,7 +21,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4511,
+                "stars": 4509,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T14:35:21Z",
-                "open_issues": 212,
+                "last_commit": "2026-09-15T15:43:58Z",
+                "open_issues": 213,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2408,
+                "stars": 2407,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -126,7 +126,7 @@
                 "open_issues": 64,
                 "owner": "J535D165",
                 "repo": "recordlinkage",
-                "stars": 1062,
+                "stars": 1061,
                 "topics": [
                   "data-matching",
                   "dedupe",
@@ -396,7 +396,7 @@
                 "open_issues": 10,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3539,
+                "stars": 3538,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -653,7 +653,7 @@
                 "open_issues": 25,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4063,
+                "stars": 4062,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -811,8 +811,8 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T08:22:55Z",
-                "open_issues": 6083,
+                "last_commit": "2026-09-16T08:24:58Z",
+                "open_issues": 6067,
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77919,
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:35:13.799Z",
+    "last_updated": "2026-09-16T08:29:13.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
