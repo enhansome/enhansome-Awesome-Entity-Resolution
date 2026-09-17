@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-15T15:43:58Z",
-                "open_issues": 213,
+                "last_commit": "2026-09-16T14:48:11Z",
+                "open_issues": 207,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2407,
+                "stars": 2408,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -82,10 +82,10 @@
                 "language": "Java",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-13T12:58:12Z",
-                "open_issues": 92,
+                "open_issues": 106,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1248,
+                "stars": 1249,
                 "topics": [
                   "cdp",
                   "customer-data-platform",
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-16T08:24:58Z",
-                "open_issues": 6067,
+                "last_commit": "2026-09-17T08:34:25Z",
+                "open_issues": 6066,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77919,
+                "stars": 77923,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T08:29:13.064Z",
+    "last_updated": "2026-09-17T08:34:26.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
