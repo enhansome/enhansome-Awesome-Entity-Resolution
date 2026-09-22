@@ -52,7 +52,7 @@
                 "open_issues": 212,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2418,
+                "stars": 2421,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -181,7 +181,7 @@
                 "open_issues": 36,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293,
+                "stars": 292,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -396,7 +396,7 @@
                 "open_issues": 10,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3539,
+                "stars": 3540,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -431,7 +431,7 @@
                 "open_issues": 8,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2232,
+                "stars": 2233,
                 "topics": [
                   "fuzzy-search",
                   "hacktoberfest",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4891,
+                "stars": 4894,
                 "topics": [
                   "address",
                   "address-parser",
@@ -650,10 +650,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2024-10-30T21:00:49Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4064,
+                "stars": 4065,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-20T21:18:54Z",
-                "open_issues": 18,
+                "last_commit": "2026-09-22T07:31:47Z",
+                "open_issues": 16,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715,
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T08:34:05Z",
-                "open_issues": 6104,
+                "last_commit": "2026-09-22T08:25:39Z",
+                "open_issues": 6060,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77952,
+                "stars": 77958,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T08:49:47.903Z",
+    "last_updated": "2026-09-22T08:26:55.583Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
