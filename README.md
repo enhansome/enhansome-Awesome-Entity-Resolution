@@ -66,7 +66,7 @@
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,179 | 🐛 6,123 | 🌐 Java | 📅 2026-10-03 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,182 | 🐛 6,122 | 🌐 Java | 📅 2026-10-03 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 151 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
