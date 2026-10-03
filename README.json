@@ -52,7 +52,7 @@
                 "open_issues": 218,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2453,
+                "stars": 2452,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4901,
+                "stars": 4900,
                 "topics": [
                   "address",
                   "address-parser",
@@ -653,7 +653,7 @@
                 "open_issues": 26,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4067,
+                "stars": 4066,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T08:31:34Z",
-                "open_issues": 16,
+                "last_commit": "2026-10-03T04:23:08Z",
+                "open_issues": 14,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 716,
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-02T09:32:18Z",
-                "open_issues": 6127,
+                "last_commit": "2026-10-03T04:13:48Z",
+                "open_issues": 6123,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78191,
+                "stars": 78179,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T09:37:26.438Z",
+    "last_updated": "2026-10-03T04:24:38.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
