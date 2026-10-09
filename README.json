@@ -21,7 +21,7 @@
                 "open_issues": 92,
                 "owner": "dedupeio",
                 "repo": "dedupe",
-                "stars": 4514,
+                "stars": 4515,
                 "topics": [
                   "clustering",
                   "datamade",
@@ -52,7 +52,7 @@
                 "open_issues": 220,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2462,
+                "stars": 2464,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -431,7 +431,7 @@
                 "open_issues": 7,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2232,
+                "stars": 2231,
                 "topics": [
                   "fuzzy-search",
                   "hacktoberfest",
@@ -549,7 +549,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5168,
+                "stars": 5169,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4903,
+                "stars": 4904,
                 "topics": [
                   "address",
                   "address-parser",
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T07:17:43Z",
-                "open_issues": 12,
+                "last_commit": "2026-10-09T05:23:32Z",
+                "open_issues": 18,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 715,
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-08T10:05:51Z",
-                "open_issues": 6172,
+                "last_commit": "2026-10-09T10:14:53Z",
+                "open_issues": 6171,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78212,
+                "stars": 78225,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T10:22:51.630Z",
+    "last_updated": "2026-10-09T10:22:15.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
