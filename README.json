@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-13T16:54:20Z",
-                "open_issues": 223,
+                "last_commit": "2026-10-14T21:23:01Z",
+                "open_issues": 224,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2478,
+                "stars": 2484,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -396,7 +396,7 @@
                 "open_issues": 12,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3544,
+                "stars": 3545,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4909,
+                "stars": 4911,
                 "topics": [
                   "address",
                   "address-parser",
@@ -670,11 +670,11 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T08:12:27Z",
+                "last_commit": "2026-10-14T09:17:22Z",
                 "open_issues": 18,
                 "owner": "derek73",
                 "repo": "python-nameparser",
-                "stars": 718,
+                "stars": 719,
                 "topics": [
                   "python",
                   "python-module",
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-14T08:34:20Z",
-                "open_issues": 6167,
+                "last_commit": "2026-10-15T08:08:42Z",
+                "open_issues": 6193,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78263,
+                "stars": 78269,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -861,7 +861,7 @@
                 "open_issues": 30,
                 "owner": "Living-with-machines",
                 "repo": "DeezyMatch",
-                "stars": 151,
+                "stars": 150,
                 "topics": [
                   "deep-learning",
                   "hacktoberfest",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T08:35:30.734Z",
+    "last_updated": "2026-10-15T08:11:24.533Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
