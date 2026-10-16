@@ -19,10 +19,10 @@
 ### End-to-End Entity Resolution
 
 * [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,517 | 🐛 92 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
-* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,484 | 🐛 224 | 🌐 Python | 📅 2026-10-14 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
-* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,256 | 🐛 114 | 🌐 Java | 📅 2026-09-13 (Python, Java) - Scalable, active learning model for entity resolution.
+* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,486 | 🐛 224 | 🌐 Python | 📅 2026-10-14 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
+* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,256 | 🐛 114 | 🌐 Java | 📅 2026-10-16 (Python, Java) - Scalable, active learning model for entity resolution.
 * [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,063 | 🐛 65 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
-* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 623 | 🐛 74 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
+* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 624 | 🐛 74 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
 * [FastLink](https://github.com/kosukeimai/fastLink) ⭐ 293 | 🐛 37 | 🌐 R | 📅 2026-02-28 (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
 * [PyJedAI](https://github.com/AI-team-UoA/pyJedAI) ⭐ 100 | 🐛 2 | 🌐 Python | 📅 2026-03-22 (Python, Java) - State-of-the-art entity resolution clustering algorithms.
 * [dblink](https://github.com/cleanzr/dblink) ⭐ 59 | 🐛 4 | 🌐 Scala | 📅 2021-06-10 (R, Spark) - Scalable Bayesian graphical entity resolution.
@@ -38,7 +38,7 @@
 ### String Comparison
 
 * [textdistance](https://github.com/life4/textdistance) ⭐ 3,545 | 🐛 12 | 🌐 Python | 📅 2025-04-18 (Python) - Very large collection of sequence comparison functions, including token-based distances.
-* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,230 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-07-24 (Python, C) - Fast string distance and phonetic matching.
+* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,231 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-10-16 (Python, C) - Fast string distance and phonetic matching.
 * [py\_stringmatching](https://github.com/anhaidgroup/py_stringmatching) ⭐ 143 | 🐛 29 | 🌐 Python | 📅 2026-02-18 (Python, C) - Large set of string comparison functions and tokenizaztion methods.
 * [StringCompare](https://github.com/OlivierBinette/StringCompare) ⭐ 21 | 🐛 13 | 🌐 Python | 📅 2025-09-21 (Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.
 * [Comparator](https://github.com/ngmarchant/comparator) ⭐ 18 | 🐛 3 | 🌐 R | 📅 2025-09-23 (R, C++) - Efficient string comparison functions in R.
@@ -51,7 +51,7 @@
 
 ### Data Cleaning and Parsing
 
-* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,911 | 🐛 299 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
+* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,912 | 🐛 299 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
 * [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,068 | 🐛 26 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
 * [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 719 | 🐛 18 | 🌐 Python | 📅 2026-10-14 (Python) - Separate names into individual components.
 * [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 623 | 🐛 68 | 🌐 Python | 📅 2025-05-15 - Western name parser.
@@ -66,7 +66,7 @@
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,269 | 🐛 6,193 | 🌐 Java | 📅 2026-10-15 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,286 | 🐛 6,203 | 🌐 Java | 📅 2026-10-16 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 150 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._

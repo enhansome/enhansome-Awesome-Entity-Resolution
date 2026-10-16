@@ -52,7 +52,7 @@
                 "open_issues": 224,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2484,
+                "stars": 2486,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -81,7 +81,7 @@
                 "id": 399775320,
                 "language": "Java",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T12:58:12Z",
+                "last_commit": "2026-10-16T06:37:17Z",
                 "open_issues": 114,
                 "owner": "zinggAI",
                 "repo": "zingg",
@@ -160,7 +160,7 @@
                 "open_issues": 74,
                 "owner": "anhaidgroup",
                 "repo": "deepmatcher",
-                "stars": 623,
+                "stars": 624,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -427,11 +427,11 @@
                 "id": 766701,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-07-24T01:48:03Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-16T02:28:16Z",
+                "open_issues": 5,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2230,
+                "stars": 2231,
                 "topics": [
                   "fuzzy-search",
                   "hacktoberfest",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4911,
+                "stars": 4912,
                 "topics": [
                   "address",
                   "address-parser",
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-15T08:08:42Z",
-                "open_issues": 6193,
+                "last_commit": "2026-10-16T07:58:20Z",
+                "open_issues": 6203,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78269,
+                "stars": 78286,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T08:11:24.533Z",
+    "last_updated": "2026-10-16T08:04:07.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
