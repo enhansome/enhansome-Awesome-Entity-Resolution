@@ -52,7 +52,7 @@
                 "open_issues": 227,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2495,
+                "stars": 2498,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -85,7 +85,7 @@
                 "open_issues": 114,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1256,
+                "stars": 1257,
                 "topics": [
                   "cdp",
                   "customer-data-platform",
@@ -396,7 +396,7 @@
                 "open_issues": 12,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3543,
+                "stars": 3544,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -549,7 +549,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5172,
+                "stars": 5171,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4912,
+                "stars": 4913,
                 "topics": [
                   "address",
                   "address-parser",
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T08:16:57Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-21T03:22:44Z",
+                "open_issues": 31,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 719,
@@ -700,7 +700,7 @@
                 "open_issues": 68,
                 "owner": "datamade",
                 "repo": "probablepeople",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "names",
                   "parse",
@@ -811,11 +811,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-20T08:19:01Z",
-                "open_issues": 6196,
+                "last_commit": "2026-10-21T07:48:50Z",
+                "open_issues": 6162,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78318,
+                "stars": 78332,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -959,7 +959,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T08:24:13.496Z",
+    "last_updated": "2026-10-21T08:27:46.079Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
