@@ -52,7 +52,7 @@
                 "open_issues": 229,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2547,
+                "stars": 2550,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -181,7 +181,7 @@
                 "open_issues": 37,
                 "owner": "kosukeimai",
                 "repo": "fastLink",
-                "stars": 293,
+                "stars": 294,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -431,7 +431,7 @@
                 "open_issues": 5,
                 "owner": "jamesturk",
                 "repo": "jellyfish",
-                "stars": 2233,
+                "stars": 2234,
                 "topics": [
                   "fuzzy-search",
                   "hacktoberfest",
@@ -621,7 +621,7 @@
                 "open_issues": 299,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4917,
+                "stars": 4919,
                 "topics": [
                   "address",
                   "address-parser",
@@ -665,13 +665,13 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A simple Python module for parsing human names into their individual components ",
-                "homepage": "http://nameparser.readthedocs.org",
+                "description": "Parse human names into title, given, middle, family, suffix, nickname and maiden name. Typed, zero-dependency, CJK-aware.",
+                "homepage": "https://nameparser.readthedocs.io/",
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:33:37Z",
-                "open_issues": 34,
+                "last_commit": "2026-10-31T06:56:51Z",
+                "open_issues": 42,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 720,
@@ -680,6 +680,8 @@
                   "data-cleaning",
                   "name-parsing",
                   "names",
+                  "nlp",
+                  "nlp-parsing",
                   "python",
                   "python-module",
                   "record-linkage",
@@ -816,11 +818,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-30T09:49:04Z",
-                "open_issues": 6191,
+                "last_commit": "2026-10-31T09:29:14Z",
+                "open_issues": 6205,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78416,
+                "stars": 78428,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -964,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T09:51:25.713Z",
+    "last_updated": "2026-10-31T09:29:54.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
@@ -976,7 +978,7 @@
       "open_issues": 5,
       "owner": "OlivierBinette",
       "repo": "Awesome-Entity-Resolution",
-      "stars": 137,
+      "stars": 138,
       "topics": [
         "awesome",
         "awesome-list",
