@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T10:43:24Z",
-                "open_issues": 219,
+                "last_commit": "2026-11-04T11:58:44Z",
+                "open_issues": 220,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2558,
+                "stars": 2560,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -549,7 +549,7 @@
                 "open_issues": 85,
                 "owner": "timesler",
                 "repo": "facenet-pytorch",
-                "stars": 5177,
+                "stars": 5176,
                 "topics": [
                   "face-detection",
                   "face-identification",
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T06:21:28Z",
-                "open_issues": 39,
+                "last_commit": "2026-11-05T10:31:21Z",
+                "open_issues": 36,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 720,
@@ -818,11 +818,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-04T10:41:19Z",
-                "open_issues": 6316,
+                "last_commit": "2026-11-05T10:35:52Z",
+                "open_issues": 6342,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78485,
+                "stars": 78497,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -847,7 +847,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3953,
+                "stars": 3954,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -966,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T10:44:54.771Z",
+    "last_updated": "2026-11-05T10:41:46.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
