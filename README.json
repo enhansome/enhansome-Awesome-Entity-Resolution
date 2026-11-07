@@ -621,7 +621,7 @@
                 "open_issues": 300,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4921,
+                "stars": 4919,
                 "topics": [
                   "address",
                   "address-parser",
@@ -653,7 +653,7 @@
                 "open_issues": 27,
                 "owner": "rspeer",
                 "repo": "python-ftfy",
-                "stars": 4067,
+                "stars": 4066,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -670,8 +670,8 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T05:59:15Z",
-                "open_issues": 36,
+                "last_commit": "2026-11-07T06:24:06Z",
+                "open_issues": 39,
                 "owner": "derek73",
                 "repo": "python-nameparser",
                 "stars": 721,
@@ -786,8 +786,8 @@
                 "id": 17057497,
                 "language": "R",
                 "license": null,
-                "last_commit": "2025-12-10T15:35:20Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-06T22:21:36Z",
+                "open_issues": 52,
                 "owner": "data-cleaning",
                 "repo": "validate",
                 "stars": 434,
@@ -818,11 +818,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-06T10:16:15Z",
-                "open_issues": 6376,
+                "last_commit": "2026-11-07T09:31:41Z",
+                "open_issues": 6406,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78500,
+                "stars": 78518,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -966,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T10:41:33.812Z",
+    "last_updated": "2026-11-07T09:53:36.666Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",

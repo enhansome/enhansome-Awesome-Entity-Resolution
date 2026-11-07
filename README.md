@@ -51,9 +51,9 @@
 
 ### Data Cleaning and Parsing
 
-* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,921 | 🐛 300 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
-* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,067 | 🐛 27 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
-* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 721 | 🐛 36 | 🌐 Python | 📅 2026-11-06 (Python) - Separate names into individual components.
+* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,919 | 🐛 300 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
+* [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,066 | 🐛 27 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
+* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 721 | 🐛 39 | 🌐 Python | 📅 2026-11-07 (Python) - Separate names into individual components.
 * [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 623 | 🐛 68 | 🌐 Python | 📅 2025-05-15 - Western name parser.
 * [cleanco](https://github.com/psolin/cleanco) ⭐ 363 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
 * [Nominally](https://github.com/vaneseltine/nominally) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-09-03 - Name parser for record linkage.
@@ -61,12 +61,12 @@
 
 ### Data Quality Control
 
-* [validate](https://github.com/data-cleaning/validate) ⭐ 434 | 🐛 53 | 🌐 R | 📅 2025-12-10 (R) - Data quality checks in R.
+* [validate](https://github.com/data-cleaning/validate) ⭐ 434 | 🐛 52 | 🌐 R | 📅 2026-11-06 (R) - Data quality checks in R.
 * [GreatExpectations](https://docs.greatexpectations.io/docs/) (Python) - Data quality checks.
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,500 | 🐛 6,376 | 🌐 Java | 📅 2026-11-06 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,518 | 🐛 6,406 | 🌐 Java | 📅 2026-11-07 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 150 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
