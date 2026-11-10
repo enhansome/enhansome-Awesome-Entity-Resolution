@@ -52,7 +52,7 @@
                 "open_issues": 222,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2567,
+                "stars": 2570,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -85,7 +85,7 @@
                 "open_issues": 117,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "cdp",
                   "customer-data-platform",
@@ -160,7 +160,7 @@
                 "open_issues": 74,
                 "owner": "anhaidgroup",
                 "repo": "deepmatcher",
-                "stars": 623,
+                "stars": 624,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -325,7 +325,7 @@
                 "open_issues": 4,
                 "owner": "OlivierBinette",
                 "repo": "er-evaluation",
-                "stars": 39,
+                "stars": 40,
                 "topics": [
                   "author-name-disambiguation",
                   "data-science",
@@ -621,7 +621,7 @@
                 "open_issues": 300,
                 "owner": "openvenues",
                 "repo": "libpostal",
-                "stars": 4921,
+                "stars": 4922,
                 "topics": [
                   "address",
                   "address-parser",
@@ -670,11 +670,11 @@
                 "id": 18353524,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T08:04:38Z",
-                "open_issues": 127,
+                "last_commit": "2026-11-10T09:18:17Z",
+                "open_issues": 111,
                 "owner": "derek73",
                 "repo": "python-nameparser",
-                "stars": 721,
+                "stars": 722,
                 "topics": [
                   "cjk",
                   "data-cleaning",
@@ -707,7 +707,7 @@
                 "open_issues": 68,
                 "owner": "datamade",
                 "repo": "probablepeople",
-                "stars": 623,
+                "stars": 624,
                 "topics": [
                   "names",
                   "parse",
@@ -732,7 +732,7 @@
                 "open_issues": 16,
                 "owner": "psolin",
                 "repo": "cleanco",
-                "stars": 363,
+                "stars": 364,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -786,11 +786,11 @@
                 "id": 17057497,
                 "language": "R",
                 "license": null,
-                "last_commit": "2026-11-06T22:21:36Z",
+                "last_commit": "2026-11-09T20:55:19Z",
                 "open_issues": 52,
                 "owner": "data-cleaning",
                 "repo": "validate",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "data-cleaning",
                   "r",
@@ -818,11 +818,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T11:04:58Z",
-                "open_issues": 6434,
+                "last_commit": "2026-11-10T10:24:35Z",
+                "open_issues": 6476,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78535,
+                "stars": 78549,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -847,7 +847,7 @@
                 "open_issues": 56,
                 "owner": "facebookresearch",
                 "repo": "StarSpace",
-                "stars": 3954,
+                "stars": 3953,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -966,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T11:17:01.736Z",
+    "last_updated": "2026-11-10T10:58:11.131Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
