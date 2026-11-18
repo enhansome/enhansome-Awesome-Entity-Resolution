@@ -18,9 +18,9 @@
 
 ### End-to-End Entity Resolution
 
-* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,530 | 🐛 93 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
-* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,588 | 🐛 221 | 🌐 Python | 📅 2026-11-11 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
-* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,275 | 🐛 117 | 🌐 Java | 📅 2026-11-03 (Python, Java) - Scalable, active learning model for entity resolution.
+* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,531 | 🐛 93 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
+* [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,590 | 🐛 222 | 🌐 Python | 📅 2026-11-11 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
+* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,275 | 🐛 118 | 🌐 Java | 📅 2026-11-03 (Python, Java) - Scalable, active learning model for entity resolution.
 * [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,066 | 🐛 64 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
 * [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 624 | 🐛 74 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
 * [FastLink](https://github.com/kosukeimai/fastLink) ⭐ 295 | 🐛 38 | 🌐 R | 📅 2026-02-28 (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
@@ -46,7 +46,7 @@
 
 ### Embeddings (for pairwise comparison)
 
-* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,175 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
+* [FaceNet-PyTorch](https://github.com/timesler/facenet-pytorch) ⭐ 5,177 | 🐛 85 | 🌐 Python | 📅 2025-09-16 (Python, PyTorch) - Embeddings for facial identity resolution.
 * [Entity Embed](https://github.com/vintasoftware/entity-embed) ⭐ 162 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2022-11-18 (Python, PyTorch) - Pytorch text embedding model for blocking.
 
 ### Data Cleaning and Parsing
@@ -66,7 +66,7 @@
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,693 | 🐛 6,562 | 🌐 Java | 📅 2026-11-17 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,685 | 🐛 6,570 | 🌐 Java | 📅 2026-11-18 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 150 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
