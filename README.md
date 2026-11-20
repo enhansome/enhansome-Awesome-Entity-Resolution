@@ -18,11 +18,11 @@
 
 ### End-to-End Entity Resolution
 
-* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,532 | 🐛 93 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
+* [dedupe](https://github.com/dedupeio/dedupe) ⭐ 4,531 | 🐛 93 | 🌐 Python | 📅 2025-07-29 (Python) - Active learning and flexible Python tooling for entity resolution.
 * [Splink](https://github.com/moj-analytical-services/splink) ⭐ 2,591 | 🐛 222 | 🌐 Python | 📅 2026-11-11 (Python, SQL, Spark) - Scalable Fellegi-Sunter and rule-based entity resolution using your choice of SQL or Spark backend.
-* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,276 | 🐛 119 | 🌐 Java | 📅 2026-11-03 (Python, Java) - Scalable, active learning model for entity resolution.
-* [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,066 | 🐛 64 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
-* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 624 | 🐛 74 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
+* [Zingg](https://github.com/zinggAI/zingg) ⭐ 1,275 | 🐛 118 | 🌐 Java | 📅 2026-11-03 (Python, Java) - Scalable, active learning model for entity resolution.
+* [RecordLinkage](https://github.com/J535D165/recordlinkage) ⭐ 1,065 | 🐛 64 | 🌐 Python | 📅 2024-02-21 (Python) - Toolkit for prototyping entity resolution systems.
+* [DeepMatcher](https://github.com/anhaidgroup/deepmatcher) ⭐ 623 | 🐛 74 | 🌐 Python | 📅 2024-06-18 (Python) - Deep learning-based entity ersolution
 * [FastLink](https://github.com/kosukeimai/fastLink) ⭐ 295 | 🐛 38 | 🌐 R | 📅 2026-02-28 (R) - Easy, scalable Fellegi-Sunter entity resolution on your laptop.
 * [PyJedAI](https://github.com/AI-team-UoA/pyJedAI) ⭐ 101 | 🐛 2 | 🌐 Python | 📅 2026-03-22 (Python, Java) - State-of-the-art entity resolution clustering algorithms.
 * [dblink](https://github.com/cleanzr/dblink) ⭐ 59 | 🐛 4 | 🌐 Scala | 📅 2021-06-10 (R, Spark) - Scalable Bayesian graphical entity resolution.
@@ -37,8 +37,8 @@
 
 ### String Comparison
 
-* [textdistance](https://github.com/life4/textdistance) ⭐ 3,546 | 🐛 19 | 🌐 Python | 📅 2025-04-18 (Python) - Very large collection of sequence comparison functions, including token-based distances.
-* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,234 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-16 (Python, C) - Fast string distance and phonetic matching.
+* [textdistance](https://github.com/life4/textdistance) ⭐ 3,545 | 🐛 19 | 🌐 Python | 📅 2025-04-18 (Python) - Very large collection of sequence comparison functions, including token-based distances.
+* [jellyfish](https://github.com/jamesturk/jellyfish) ⭐ 2,233 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-10-16 (Python, C) - Fast string distance and phonetic matching.
 * [py\_stringmatching](https://github.com/anhaidgroup/py_stringmatching) ⭐ 144 | 🐛 29 | 🌐 Python | 📅 2026-02-18 (Python, C) - Large set of string comparison functions and tokenizaztion methods.
 * [StringCompare](https://github.com/OlivierBinette/StringCompare) ⭐ 21 | 🐛 13 | 🌐 Python | 📅 2025-09-21 (Python, C++) - Time and space efficient implementation of common string distance functions. Architectured for maintainability and extendability.
 * [Comparator](https://github.com/ngmarchant/comparator) ⭐ 18 | 🐛 3 | 🌐 R | 📅 2025-09-23 (R, C++) - Efficient string comparison functions in R.
@@ -51,22 +51,22 @@
 
 ### Data Cleaning and Parsing
 
-* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,926 | 🐛 301 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
+* [libpostal](https://github.com/openvenues/libpostal) ⭐ 4,925 | 🐛 301 | 🌐 C | 📅 2026-05-13 (C, and bindings for Python, Java, Go, Ruby, PHP, and NodeJS) - Multinational address parsing.
 * [Ftfy](https://github.com/rspeer/python-ftfy) ⭐ 4,068 | 🐛 29 | 🌐 Python | 📅 2024-10-30 (Python) - Fixes text (unicode artifacts) for you.
-* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 723 | 🐛 123 | 🌐 Python | 📅 2026-11-19 (Python) - Separate names into individual components.
-* [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 624 | 🐛 68 | 🌐 Python | 📅 2025-05-15 - Western name parser.
-* [cleanco](https://github.com/psolin/cleanco) ⭐ 365 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
+* [python-nameparser](https://github.com/derek73/python-nameparser) ⭐ 721 | 🐛 113 | 🌐 Python | 📅 2026-11-20 (Python) - Separate names into individual components.
+* [ProbablePeople](https://github.com/datamade/probablepeople) ⭐ 623 | 🐛 68 | 🌐 Python | 📅 2025-05-15 - Western name parser.
+* [cleanco](https://github.com/psolin/cleanco) ⭐ 364 | 🐛 16 | 🌐 Python | 📅 2026-06-23 (Python) - Company name cleaning.
 * [Nominally](https://github.com/vaneseltine/nominally) ⭐ 41 | 🐛 6 | 🌐 Python | 📅 2025-09-03 - Name parser for record linkage.
 * [PyJanitor](https://pyjanitor-devs.github.io/pyjanitor/) (Python) - Clean code for clean data.
 
 ### Data Quality Control
 
-* [validate](https://github.com/data-cleaning/validate) ⭐ 435 | 🐛 52 | 🌐 R | 📅 2026-11-09 (R) - Data quality checks in R.
+* [validate](https://github.com/data-cleaning/validate) ⭐ 434 | 🐛 52 | 🌐 R | 📅 2026-11-09 (R) - Data quality checks in R.
 * [GreatExpectations](https://docs.greatexpectations.io/docs/) (Python) - Data quality checks.
 
 ### Blocking, Candidate Selection, and Search
 
-* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,667 | 🐛 6,588 | 🌐 Java | 📅 2026-11-19 - Search text.
+* [ElasticSearch](https://github.com/elastic/elasticsearch) ⭐ 78,681 | 🐛 6,653 | 🌐 Java | 📅 2026-11-20 - Search text.
 * [StarSpace](https://github.com/facebookresearch/StarSpace) ⚠️ Archived (C++, Python) - Embedding model suitable for similarity learning.
 * [DeezyMatch](https://github.com/Living-with-machines/DeezyMatch) ⭐ 150 | 🐛 30 | 🌐 Jupyter Notebook | 📅 2024-10-16 (Python) - Deep embedding and approximate nearest-beighbor blocking for entity resolution.
 * \[BlockingPy)(<https://github.com/ncn-foreigners/BlockingPy> ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2026-03-09) (Python) -- Blocking based on approximate nearest neighbours.
@@ -103,4 +103,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-20._
