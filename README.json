@@ -48,11 +48,11 @@
                 "id": 223420284,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-25T14:33:56Z",
-                "open_issues": 222,
+                "last_commit": "2026-11-27T14:33:35Z",
+                "open_issues": 224,
                 "owner": "moj-analytical-services",
                 "repo": "splink",
-                "stars": 2607,
+                "stars": 2609,
                 "topics": [
                   "data-matching",
                   "data-science",
@@ -85,7 +85,7 @@
                 "open_issues": 113,
                 "owner": "zinggAI",
                 "repo": "zingg",
-                "stars": 1277,
+                "stars": 1278,
                 "topics": [
                   "cdp",
                   "customer-data-platform",
@@ -160,7 +160,7 @@
                 "open_issues": 74,
                 "owner": "anhaidgroup",
                 "repo": "deepmatcher",
-                "stars": 623,
+                "stars": 622,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:15:00.994Z"
@@ -396,7 +396,7 @@
                 "open_issues": 30,
                 "owner": "life4",
                 "repo": "textdistance",
-                "stars": 3543,
+                "stars": 3544,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -818,11 +818,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-27T11:58:57Z",
-                "open_issues": 6713,
+                "last_commit": "2026-11-28T11:12:10Z",
+                "open_issues": 6697,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78854,
+                "stars": 78731,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -966,7 +966,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T11:59:14.282Z",
+    "last_updated": "2026-11-28T11:36:32.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of entity resolution software and resources.",
